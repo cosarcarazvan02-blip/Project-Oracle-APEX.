@@ -1,1 +1,1 @@
-# Proiect-Oracle-APEX.
+# Project-Oracle-APEX.
